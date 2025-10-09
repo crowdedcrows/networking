@@ -27,3 +27,9 @@
 4) Private IPv4 Addresses: Sadece LAN içinde problemleri çözer. İnternete bağlanamazsın bu adreslerle.
     - <img src="../../00-files/Photos_sAs4JRVCy8.png" alt="Resim" width="500">
     - <img src="../../00-files/Photos_qhHvEFi35T.png" alt="Resim" width="500">
+
+5) NAT: No preserving Global IP address
+    - Static Nat 
+    - Dynamic Nat 
+
+6) ***NAT Overload / PAT (Port Address Translation): Preserving Global IP addresses.***
